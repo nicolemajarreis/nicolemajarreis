@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Nicole.png" width="100%" alt="Nicole Majarreis Banner">
+  <img src="Nicole_GitHubBanner.png" width="100%" alt="Nicole Majarreis Banner">
 </p>
 
 # Hi, I'm Nicole Majarreis 👋
